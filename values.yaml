@@ -1,0 +1,4 @@
+replicas: 2
+containerPort: 8000
+port: 80
+image: nginx:latest
